@@ -4,9 +4,9 @@ package de.honzont;
  * Created by JensGe on 03.11.2016.
  */
 
-public class Main2 {
+public class Main {
 
-    private Main2() {
+    private Main() {
         throw new IllegalAccessError("Utility class");
     }
 
